@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTA - San Andreas | Guia Geral</title>
+
+    <link rel="icon" href="imagens/rockstar.png">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body class="fundo">
+
+    <header>
+        
+        <nav>
+            <div class="menu-item">
+                <a href="index.html" id="inicio">Inicio</a>
+                <div class="submenu">
+                    <a href="index.html#historia">História</a>
+                    <a href="index.html#coletaveis">Coletáveis</a>
+                </div>
+            </div>
+            <a href="codigos.html" target="_blank">Códigos</a>
+            <a href="detonado.html">Detonado</a>
+            <a href="comprar.html">Comprar</a>
+            <a href="personagens.html">Personagens</a>
+            <a href="cadastro.html" target="_blank">Cadastro SAMP</a>
+        </nav>
+
+        <div class="banner" id="banner">
+            <img src="imagens/banner.png" alt="banner" width="100%">
+        </div>
+       
+
+
+    </header>
+
+    <h1>GTA - San Andreas | Dicas e truques</h1>
+
+    <h2>Cadastre-se para jogar o SAMP em grupo</h2>
+
+    <form action="">
+
+        <fieldset>
+            <legend>Identificação de usuário</legend>
+            <p>Nome: <input type="text" size="40" placeholder="Digite seu nome real"></p>
+            <p>Nick de jogo: <input type="text" size="50" placeholder="Digite o nick que você usa no SAMP para jogar online"></p>
+            <p>Data de nascimento: <input type="date"></p>
+            <p>Nick do discord: <input type="text" placeholder="Exemplo#1234"></p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Gênero</legend>
+            <p>Masculino: <input type="radio" name="Gen"></p>
+            <p>Feminino: <input type="radio" name="Gen"></p>
+            <p>Outro: <input type="text" size="20"></p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Profissão</legend>
+            <p>Bombeiro <input type="radio" name="Prof"></p>
+            <p>Fora da lei <input type="radio" name="Prof"></p>
+            <p>Policial <input type="radio" name="Prof"></p>
+            <p>Médico <input type="radio" name="Prof"></p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Escolhas iniciais</legend>
+            <p>
+                Cidade
+                <input type="" list="cidades">
+                    <datalist id="cidades">
+                        <option value="San Andreas"></option>
+                        <option value="San Fierro"></option>
+                        <option value="Liberty City"></option>
+                        <option value="Las Venturas"></option>
+                        <option value="Angel Pine"></option>
+                    </datalist>
+            </p>
+
+                Carros iniciais
+                <p>
+                    <input type="checkbox">
+                    Palio
+                </p>
+                <p>
+                    <input type="checkbox">
+                    Gol quadrado
+                </p>
+                <p>
+                    <input type="checkbox">
+                    Uno
+                </p>
+                <p>
+                    <input type="checkbox">
+                    Monza
+                </p>
+                <p>
+                    <input type="checkbox">
+                    Fusca
+                </p>
+                <p>
+                    <input type="checkbox">
+                    Brasilia
+                </p>
+
+        </fieldset>
+
+        <div class="botao-enviar">
+            <input type="reset" value="Limpar">
+            <input type="submit" value="Enviar">
+        </div>
+
+    </form>
+
+    <div class="centro" id="anuncio">
+        <img id="trigger-image" src="imagens/anuncio.gif" alt="">
+    </div>
+
+    <div id="myModal" class="modal">
+
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>VOCÊ ACHOU UM EASTER EGG!</h2>
+            <img id="modal-image" src="imagens/code.png" alt="Imagem Modal">
+            <h1>Tente usar o código!</h1>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+    <div id="top">
+        <a href="#inicio">
+            <img src="imagens/top.png" alt="subir" width="50px">
+        </a>
+    </div>
+    
+
+<footer>
+    <div class="rodape">
+        <a href="https://www.facebook.com/rockstargames" target="_blank">
+            <img src="imagens/logo-face.png" alt="facebook" width="50px">
+        </a>
+
+        <a href="https://www.instagram.com/rockstargames/" target="_blank">
+            <img src="imagens/logo-instagram.png" alt="instagram" width="50px">
+        </a>
+
+        <a href="https://x.com/rockstargames" target="_blank">
+            <img src="Imagens/logo-twitter.png" alt="twitter" width="50px">
+        </a>
+    </div>
+
+    <div class="rodape">
+        <a href="https://www.rockstargames.com/br/" target="_blank">
+            <img src="imagens/rockstar.png" alt="" width="50px">
+        </a>
+    </div>
+
+    <div class="rodape">
+        &copy; Rockstar | 2025 | Wesley Tales
+    </div>
+</footer>
+
+</body>
+</html>

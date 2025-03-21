@@ -1,0 +1,563 @@
+
+
+body {
+    margin: 0px;
+    font-family: 'Roboto';
+    background-color: #e3d8b9;
+}
+
+.banner {
+    margin: 0px;
+    border: none;
+}
+
+.banner img {
+    display: block;
+}
+
+/* MENU DE NAVEGAÇÃO */
+
+nav {
+    text-align: center;
+    background-color: #d78e10;
+    border: none;
+    margin: 0px;
+    padding: 10px;
+    font-weight: 700;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    /* padding: 20px; */
+    padding: 20px 20px 25px 20px;
+}
+
+/* Submenu */
+.menu-item {
+    position: relative;
+    display: inline-block;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #d78e10;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 0 0 15px 15px;
+    overflow: hidden;
+}
+
+.submenu a {
+    display: block;
+    padding: 12px 16px;
+    font-size: 19px;
+    text-align: left;
+}
+
+.menu-item:hover .submenu {
+    display: block;
+}
+
+/* Ajustar padding do item pai */
+.menu-item > a {
+    padding-bottom: 25px; /* Espaço para o submenu */
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+h1 {
+    font-family: 'Passion One';
+    text-align: center;
+    font-size: 35px;
+    color: #ffffff;
+    background-color: #000000;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    /* margin-left: 30px; */
+    color: #000000;
+    padding: 15px 15px;
+    font-size: 27px;
+    background-color: #d78e10;
+    width: fit-content;
+    border-radius: 15px;
+    font-weight: 900;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-esquerda {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-weight: bold;
+    background-color: #ffa200;
+    width: auto;
+    border-radius: 5px;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+/* COLETAVEIS ABAIXO */
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+    color: #000000;
+}
+
+.quadro {
+    background-color: #d78e10;
+    width: 520px;
+    display: inline-block;
+    margin: 30px;
+    border-color: #335f3f;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 30px;
+    vertical-align: top;
+}
+
+.quadro img {
+    width: 80%;
+}
+
+.centro {
+    text-align: center;
+}
+
+#anuncio {
+    margin-top: 35px;
+    /* margin-bottom: 20px; */
+}
+
+.mapas {
+    transition: 0.4s;
+}
+
+.mapas:hover {
+    transform: scale(2);
+    border-color: #000000;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px
+}
+
+
+footer {
+    margin-top: 100px;
+    background-color: #d78e10;
+    font-size: 20px;
+    text-align: center;
+}
+
+.rodape {
+    text-decoration: none;
+    display: inline-block;
+    margin: 30px 10px 30px 10px;
+    vertical-align: middle;
+}
+
+.rodape a {
+    text-decoration: none;
+}
+
+.rodape a img:hover {
+    filter: invert(100%);
+}
+
+#top {
+    position: fixed;
+    bottom: 20px; /* Distância da parte inferior da tela */
+    right: 20px; /* Distância da parte direita da tela */
+    width: 100px; /* Largura da imagem */
+    height: auto; /* Altura da imagem (ajustada automaticamente) */
+    z-index: 9999;
+}
+
+/* CSS DO DETONADO EM VIDEO ABAIXO */
+
+.lista-videos {
+    list-style: none;
+    padding: 0;
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.lista-videos li {
+    margin-bottom: 10px;
+    border: 3px solid #335f3f;
+    padding: 10px;
+    background-color: #d78e10;
+    border-radius: 10px;
+}
+
+.titulo-video {
+    cursor: pointer;
+    color: #000000;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: #d78e10;
+    width: fit-content;
+    border-radius: 15px;
+    font-weight: 900;
+}
+
+.video-container {
+    display: none;
+    margin-top: 10px;
+}
+
+/* iframe {
+  width: 100%;
+} */
+
+.imgDetonado {
+    text-align: center;
+}
+
+.imgDetonado img {
+    border: 5px solid #d78e10;
+}
+
+#detonadotxt h2 {
+    text-align: center;
+    color: #000000;
+    padding: 15px 25px;
+    font-size: 20px;
+    background-color: #d78e10;
+    width: fit-content;
+    border-radius: 15px;
+    font-weight: 900;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#detonadotxt p {
+    text-align: center;
+    margin: auto 350px auto 350px;
+    line-height: 1.6;
+}
+
+/* PAGINA DE CODIGOS */
+
+table {
+    width: 350px;
+    height: fit-content;
+    margin: auto;
+}
+
+tr {
+    background-color: #ffa200;
+    color: #000000;
+}
+
+.comando {
+    background-color: #ffa200;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px 10px 10px 5px;
+    border: 3px solid #335f3f;
+    border-radius: 5px;
+}
+
+td {
+    text-align: right;
+    border: 3px solid #335f3f;
+    border-radius: 5px;
+    padding: 10px 15px 10px 10px;
+}
+
+.blocoTabela {
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+    text-align: center;
+    margin: 5px;
+}
+
+hr {
+    border: 1px solid #335f3f;
+    margin: 0px 15px 0px 15px;
+}
+
+/* ESTE É O ESTILO DA PAGINA COMPRAR */
+
+.comprar {
+    /* text-align: center; */
+    display: inline-block;
+}
+
+.comprar a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.comprar a p {
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+.comprar a p:hover {
+    background-color: #797979;
+    transform: scale(1.1);
+}
+
+.comprar img {
+    margin: auto 25px auto 25px;
+    transition: transform 0.3s;
+    vertical-align: top;
+}
+
+.comprar img:hover {
+    transform: scale(1.1);
+}
+
+/* ESTILO DO FORMULARIO */
+
+.fundo {
+    background-image: url(imagens/samp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* COMO COLOCAR FILTRO EM UMA IMAGEM URL? */
+}
+
+fieldset {
+    font-family: 'Passion One';
+    font-size: 20px;
+    border-color: #335f3f;
+    background-color: #d78e10;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+legend {
+    font-family: 'Passion One';
+    font-size: 25px;
+    color: #000000;
+    background-color: #d78e10;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #335f3f;
+    border-style: solid;
+    box-shadow: 5px 5px 10px #000000;
+}
+
+form {
+    width: 700px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.botao-enviar {
+    text-align: right;
+    margin-top: 20px;
+}
+
+/* SLIDES EM BAIXO */
+
+.slider-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centraliza o slider e os botões horizontalmente */
+    margin: 50px auto;
+}
+
+.slider {
+    width: 80%; /* Ajuste a largura conforme necessário */
+    background-color: orange;
+    border: 5px solid green;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0 10px; /* Adiciona espaçamento entre o slider e os botões */
+}
+
+.slide-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    display: flex;
+    width: 100%;
+    flex-shrink: 0;
+}
+
+.slide img {
+    width: 70%;
+    height: auto;
+    object-fit: cover;
+}
+
+.description {
+    width: 30%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.description h2 {
+    /* font-family: 'Passion One'; */
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.prev, .next {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1.5em;
+}
+
+.personagens {
+    text-align: center;
+}
+
+.personagens figcaption {
+    text-align: center;
+    margin: 0px 283px 0px 283px;
+    padding: 10px;
+}
+
+#membros-grove figcaption {
+    text-align: center;
+    margin: 0px 603px 0px 603px;
+    padding: 5px;
+}
+
+#codigo-errado figcaption {
+    text-align: center;
+    margin: 0px 475px 0px 475px;
+    padding: 5px;
+}
+
+/* ESTILO DO MAPA ABAIXO */
+
+iframe {
+    border-color: #000000;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px
+}
+
+/* MODAL ABAIXO */
+
+/* Esconde o modal por padrão */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fica fixo na tela */
+    z-index: 1; /* Posiciona-se em cima de outros elementos */
+    left: 0;
+    top: 0;
+    width: 100%; /* Largura total */
+    height: 100%; /* Altura total */
+    overflow: auto; /* Habilita scroll se o conteúdo for grande */
+    background-color: rgba(0,0,0,0.4); /* Fundo preto com opacidade */
+}
+
+/* Conteúdo do Modal / Caixa */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% do topo e centralizado */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Pode ser ajustado conforme necessidade */
+    text-align: center; /* Centraliza o conteúdo no modal */
+}
+
+/* Botão de fechar */
+.close-button {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close-button:hover,
+.close-button:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Estilos adicionais para as imagens (opcional) */
+#trigger-image {
+    cursor: pointer; /* Indica que é clicável */
+    max-width: 800px; /* Ajuste conforme necessário */
+    height: auto;
+}
+
+#modal-image {
+    width: 80%; /* Imagem responsiva dentro do modal */
+    height: auto;
+}
+
+#confetti-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Permite que os cliques passem pelo confete */
+    z-index: 9999; /* Garante que o confete fique acima de tudo */
+}
+
+.confetti {
+    position: absolute;
+    width: 10px;
+    height: 15px;
+    background-color: #fce18a; /* Cor padrão, será sobrescrita pelo JS */
+    opacity: 0;
+    transform-origin: center center;
+    animation-name: fall;
+    animation-timing-function: ease-in-out;
+}
+
+#confetti-container.start-animation .confetti {
+    opacity: 1;
+}
+
+@keyframes fall {
+    0% {
+        transform: translateY(-50px) rotate(0deg) scale(1);
+    }
+    100% {
+        transform: translateY(120vh) rotate(360deg) scale(0.7);
+    }
+}
