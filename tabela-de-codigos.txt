@@ -1,0 +1,365 @@
+Modificações de personagem
+
+<table>
+    <tr>
+        <td>HESOYAM</td>
+        <td>Vida infinita, colete e $250.000</td>
+    </tr>
+    <tr>
+        <td>LXGIWYL</td>
+        <td>Armas 1</td>
+    </tr>
+    <tr>
+        <td>KJKSZPJ</td>
+        <td>Armas 2</td>
+    </tr>
+    <tr>
+        <td>UZUMYMW</td>
+        <td>Armas 3</td>
+    </tr>
+    <tr>
+        <td>NCSGDAG</td>
+        <td>Nível máximo de proficiência para todas as armas</td>
+    </tr>
+    <tr>
+        <td>WANRLTW</td>
+        <td>Munição infinita</td>
+    </tr>
+    <tr>
+        <td>JYSDSOD</td>
+        <td>Músculos máximos</td>
+    </tr>
+    <tr>
+        <td>OGXSDAG</td>
+        <td>Respeito máximo</td>
+    </tr>
+    <tr>
+        <td>EHIBXQS</td>
+        <td>Apelo sexual máximo</td>
+    </tr>
+    <tr>
+        <td>BTCDBCB</td>
+        <td>Gordura máxima</td>
+    </tr>
+    <tr>
+        <td>KVGYZQK</td>
+        <td>Personagem magro</td>
+    </tr>
+    <tr>
+        <td>LFGMHAL</td>
+        <td>Super pulo</td>
+    </tr>
+    <tr>
+        <td>IAVENJQ</td>
+        <td>Mega soco</td>
+    </tr>
+    <tr>
+        <td>BEKKNQV</td>
+        <td>Atrair mulheres</td>
+    </tr>
+    <tr>
+        <td>MUNASEF</td>
+        <td>Modo adrenalina</td>
+    </tr>
+    <tr>
+        <td>BAGUVIX</td>
+        <td>Vida infinita</td>
+    </tr>
+    <tr>
+        <td>CVWKXAM</td>
+        <td>Oxigênio infinito</td>
+    </tr>
+    <tr>
+        <td>AEDUWNV</td>
+        <td>Nunca mais sentir fome</td>
+    </tr>
+    <tr>
+        <td>SJMAHPE</td>
+        <td>Recrutar alguém equipado com uma pistola</td>
+    </tr>
+    <tr>
+        <td>ZSOXFSQ</td>
+        <td>Recrutar alguém equipado com um lançador de foguetes</td>
+    </tr>
+    <tr>
+        <td>PGGOMOY</td>
+        <td>Direção perfeita</td>
+    </tr>
+    <tr>
+        <td>AEZAKMI</td>
+        <td>Nunca será procurado</td>
+    </tr>
+    <tr>
+        <td>ASNAEB</td>
+        <td>Reseta o nível de procurado</td>
+    </tr>
+    <tr>
+        <td>OSRBLHH</td>
+        <td>Aumenta o nível de procurado em 2</td>
+    </tr>
+    <tr>
+        <td>LJSPQK</td>
+        <td>Aumenta o nível de procurado em 6</td>
+    </tr>
+    <tr>
+        <td>SZCMAWO</td>
+        <td>Mata o personagem</td>
+    </tr>
+    <tr>
+        <td>BAGOWPG</td>
+        <td>Todos os NPCs começam a persegui-lo</td>
+    </tr>
+</table>
+
+
+Veiculos
+
+<table>
+    <tr>
+        <td>AGBDLCID</td>
+        <td>Monster</td>
+    </tr>
+    <tr>
+        <td>AIWPRTON</td>
+        <td>Rhino (Tanque de guerra)</td>
+    </tr>
+    <tr>
+        <td>AKJJYGLC</td>
+        <td>Quad</td>
+    </tr>
+    <tr>
+        <td>AMOMHRER</td>
+        <td>Tanker Truck (Caminhão tanque)</td>
+    </tr>
+    <tr>
+        <td>AQTBCODX</td>
+        <td>Romero (Carro funerário)</td>
+    </tr>
+    <tr>
+        <td>CQZIJMB</td>
+        <td>Bloodring Banger</td>
+    </tr>
+    <tr>
+        <td>EEGCYXTR</td>
+        <td>Bulldozer (Trator)</td>
+    </tr>
+    <tr>
+        <td>JQNTDMH</td>
+        <td>Rancher (Caminhonete)</td>
+    </tr>
+    <tr>
+        <td>JUMPJET</td>
+        <td>Hydra (Jato)</td>
+    </tr>
+    <tr>
+        <td>KGGGDKP</td>
+        <td>Vortex Hovercraft (Aerobarco)</td>
+    </tr>
+    <tr>
+        <td>KRIJEBR</td>
+        <td>Stretch (Limusine)</td>
+    </tr>
+    <tr>
+        <td>OHDUDE</td>
+        <td>Hunter (Helicóptero de ataque)</td>
+    </tr>
+    <tr>
+        <td>PDNEJOH</td>
+        <td>Carro de corrida 1</td>
+    </tr>
+    <tr>
+        <td>VPJTQWV</td>
+        <td>Carro de corrida 2</td>
+    </tr>
+    <tr>
+        <td>RZHSUEW</td>
+        <td>Carrinho de golfe</td>
+    </tr>
+    <tr>
+        <td>UBHYZHQ</td>
+        <td>Caminhão de lixo</td>
+    </tr>
+    <tr>
+        <td>URKQSRK</td>
+        <td>Aeronave (não especificado)</td>
+    </tr>
+    <tr>
+        <td>YECGAAP</td>
+        <td>Jetpack</td>
+    </tr>
+    <tr>
+        <td>AIYPWZP</td>
+        <td>Paraquedas</td>
+    </tr>
+</table>
+
+
+Modificações de veiculos
+
+<table>
+    <tr>
+        <td>RIPAZHA</td>
+        <td>Carros voadores</td>
+    </tr>
+    <tr>
+        <td>AFSNMSMW</td>
+        <td>Barcos voadores</td>
+    </tr>
+    <tr>
+        <td>BSXSGGCT</td>
+        <td>Carros em gravidade zero</td>
+    </tr>
+    <tr>
+        <td>VKYPQCF</td>
+        <td>Táxis com nitro</td>
+    </tr>
+    <tr>
+        <td>COXEFGU</td>
+        <td>Todos os veículos possuem nitro</td>
+    </tr>
+    <tr>
+        <td>CPKTNWT</td>
+        <td>Todos os carros explodem</td>
+    </tr>
+    <tr>
+        <td>XICWMD</td>
+        <td>Carro invisível</td>
+    </tr>
+    <tr>
+        <td>OUIQDMW</td>
+        <td>Permite atirar enquanto dirige</td>
+    </tr>
+</table>
+
+
+Mudança de ambiente
+
+
+<table>
+    <tr>
+        <td>ICIKPYH</td>
+        <td>Tempo muito ensolarado</td>
+    </tr>
+    <tr>
+        <td>AFZLLQL</td>
+        <td>Tempo ensolarado</td>
+    </tr>
+    <tr>
+        <td>AUIFRVQS</td>
+        <td>Tempo chuvoso</td>
+    </tr>
+    <tr>
+        <td>CFVFGMJ</td>
+        <td>Tempo com neblina</td>
+    </tr>
+    <tr>
+        <td>MGHXYRM</td>
+        <td>Clima tempestuoso</td>
+    </tr>
+    <tr>
+        <td>ALNSFMZO</td>
+        <td>Tempo nublado</td>
+    </tr>
+    <tr>
+        <td>CWJXUOC</td>
+        <td>Tempestade de areia</td>
+    </tr>
+    <tr>
+        <td>IOWDLAC</td>
+        <td>Todos os veículos são pretos</td>
+    </tr>
+    <tr>
+        <td>LLQPFBN</td>
+        <td>Todos os veículos são rosa</td>
+    </tr>
+    <tr>
+        <td>BGKGTJH</td>
+        <td>Todos os veículos são baratos</td>
+    </tr>
+    <tr>
+        <td>FVTMNBZ</td>
+        <td>Veículos de campanha</td>
+    </tr>
+    <tr>
+        <td>GUSNHDE</td>
+        <td>Veículos de corrida</td>
+    </tr>
+    <tr>
+        <td>THGLOJT</td>
+        <td>Reduz o tráfego</td>
+    </tr>
+    <tr>
+        <td>ZEIIVG</td>
+        <td>Todas as luzes de semáforo ficam verdes</td>
+    </tr>
+    <tr>
+        <td>XJVSNAJ</td>
+        <td>Noite</td>
+    </tr>
+    <tr>
+        <td>OFVIAC</td>
+        <td>Entardecer</td>
+    </tr>
+    <tr>
+        <td>YSOHNUL</td>
+        <td>Acelera o relógio</td>
+    </tr>
+    <tr>
+        <td>PPGWJHT</td>
+        <td>Acelera a passagem do tempo</td>
+    </tr>
+    <tr>
+        <td>LIYOAAY</td>
+        <td>Desacelera a passagem do tempo</td>
+    </tr>
+    <tr>
+        <td>PRIEBJ</td>
+        <td>Modo Funhouse</td>
+    </tr>
+    <tr>
+        <td>AFPHULTL</td>
+        <td>Modo Ninja</td>
+    </tr>
+</table>
+
+
+Modificação de personagens
+
+<table>
+    <tr>
+        <td>CIKGCGX</td>
+        <td>Pedestres em trajes de banho</td>
+    </tr>
+    <tr>
+        <td>FOOOXFT</td>
+        <td>Todos estão armados</td>
+    </tr>
+    <tr>
+        <td>AJLOJYQY</td>
+        <td>Pedestres armados com tacos de golfe</td>
+    </tr>
+    <tr>
+        <td>BGLUAWML</td>
+        <td>Pedestres armados com lança-foguetes</td>
+    </tr>
+    <tr>
+        <td>IOJUFZN</td>
+        <td>Começar uma briga</td>
+    </tr>
+    <tr>
+        <td>ASBHGRB</td>
+        <td>Elvis está em todo lugar</td>
+    </tr>
+    <tr>
+        <td>YLTEICZ</td>
+        <td>Motoristas agressivos</td>
+    </tr>
+    <tr>
+        <td>MROEMZH</td>
+        <td>Gangues onipresentes</td>
+    </tr>
+    <tr>
+        <td>MROEMZH</td>
+        <td>Controle de gangue de rua</td>
+    </tr>
+</table>
